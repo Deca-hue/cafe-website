@@ -1,4 +1,5 @@
-     // Submit the form
+
+// Submit the form
     document.getElementById("orderForm").submit();
  
  // JavaScript code to handle form submission
